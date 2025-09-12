@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maverick Data Entry - Neuromorphic Style</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="form-card">
+            <h1 class="title">Maverick Data Entry</h1>
+            
+            <form id="dataForm" class="form">
+                <div class="input-group">
+                    <label for="company" class="label">Company</label>
+                    <input type="text" id="company" name="company" class="input-field" placeholder="Enter company name" required>
+                </div>
+                
+                <div class="input-group">
+                    <label for="url" class="label">URL</label>
+                    <input type="url" id="url" name="url" class="input-field" placeholder="Enter website URL" required>
+                </div>
+                
+                <div class="button-group">
+                    <button type="submit" class="btn btn-primary">Add Entry</button>
+                    <button type="button" id="viewData" class="btn btn-secondary">View All Data</button>
+                    <button type="reset" class="btn btn-tertiary">Clear Form</button>
+                </div>
+            </form>
+            
+            <div id="message" class="message hidden"></div>
+            
+            <div id="dataDisplay" class="data-display hidden">
+                <h2 class="data-title">Stored Data</h2>
+                <div id="dataList" class="data-list"></div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
