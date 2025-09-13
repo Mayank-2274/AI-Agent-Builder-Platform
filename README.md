@@ -1,4 +1,5 @@
-# AI Chat Assistant Chrome Extension
+# MAVERICK
+## AI Chat Assistant Chrome Extension
 
 A Chrome extension that provides an AI-powered chatbot interface to help you analyze and discuss webpage content using the Airia API.
 
@@ -233,5 +234,6 @@ This project is open source. Feel free to modify and distribute according to you
 ---
 
 **Author**: github.com/RiturajSingh2004
+
 
 For questions or issues, please create an issue in the repository.
