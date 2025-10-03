@@ -1,7 +1,5 @@
-# MAVERICK
-## AI Chat Assistant Chrome Extension
-
-A Chrome extension that provides an AI-powered chatbot interface to help you analyze and discuss webpage content using the Airia API.
+# MAVERICK
+An Enterprise level b2b AI agent Builder platform that provides an AI-powered services and solutions to help you analyze and discuss webpage content using the Airia API.
 
 ## 🚀 Features
 
