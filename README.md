@@ -1,5 +1,7 @@
-# MAVERICK
-An Enterprise level b2b AI agent Builder platform that provides an AI-powered services and solutions to help you analyze and discuss webpage content using the Airia API.
+# MAVERICK
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+An Enterprise level b2b AI agent Builder platform that provides an AI-powered services and solutions to help you analyze and discuss webpage content using the Airia API.
 
 ## 🚀 Features
 
@@ -235,3 +237,7 @@ This project is open source. Feel free to modify and distribute according to you
 
 
 For questions or issues, please create an issue in the repository.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
